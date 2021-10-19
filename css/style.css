@@ -235,13 +235,9 @@ body {
   .restaurant__subtitle {
     margin: 0;
     text-align: left;
+    margin-left: -49px;
   }
-  .header__arrow {
-    position: absolute;
-    top: 33px;
-    left: 45px;
-  }
-  
+    
 footer {
     text-align: left;
     text-decoration: none;
