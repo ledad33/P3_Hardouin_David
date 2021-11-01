@@ -529,3 +529,7 @@ footer {
     top: 50px;
     left: 30px;
    }
+
+   .fa-heart:before {
+     transition: all ease-in-out 0.1s;
+   }
